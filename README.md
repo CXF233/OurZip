@@ -1,8 +1,8 @@
 # OurZip
 
-同组大佬/小伙伴：小马哥 MZA
+> A simple zip app based on Java
 
-A simple zip app based on Java
+同组大佬/小伙伴：*小马哥 MZA*
 
 运用技术
 1. 基于 `javafx` 的界面
